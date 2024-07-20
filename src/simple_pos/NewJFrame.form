@@ -394,7 +394,7 @@
             </Container>
             <Container class="javax.swing.JPanel" name="jPanel3">
               <Properties>
-                <Property name="toolTipText" type="java.lang.String" value="Free POS Software.Simple POS for Small Businesses. Youtube.com/c/Dappcode and Youtube.com/@sasindu"/>
+                <Property name="toolTipText" type="java.lang.String" value="KFC POS for Small Businesses."/>
               </Properties>
 
               <Layout>
